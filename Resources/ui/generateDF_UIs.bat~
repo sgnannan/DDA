@@ -1,0 +1,18 @@
+cd ..\..\..\..\bin\
+python.exe pyside-uic -o ..\Mod\DDA\Resources\ui\ui_DFMaterialPanel.py ..\Mod\DDA\Resources\ui\DFMaterialPanel.ui
+python.exe pyside-uic -o ..\Mod\DDA\UIs\ui_DF.py  ..\Mod\DDA\Resources\ui\DF.ui
+python.exe pyside-uic -o ..\Mod\DDA\UIs\ui_BlockMaterial.py  ..\Mod\DDA\Resources\ui\BlockMaterial.ui
+python.exe pyside-uic -o ..\Mod\DDA\UIs\ui_LoadingPointParameters.py  ..\Mod\DDA\Resources\ui\LoadingPointParameters.ui
+python.exe pyside-uic -o ..\Mod\DDA\UIs\ui_LoadingPointParameters4certainTime.py  ..\Mod\DDA\Resources\ui\LoadingPointParameters4certainTime.ui
+python.exe pyside-uic -o ..\Mod\DDA\UIs\ui_JointMaterial.py  ..\Mod\DDA\Resources\ui\JointMaterial.ui
+python.exe pyside-uic -o ..\Mod\DDA\UIs\ui_EarthquakeAccelerationVector.py  ..\Mod\DDA\Resources\ui\EarthquakeAccelerationVector.ui
+python.exe pyside-uic -o ..\Mod\DDA\UIs\ui_WaterControlPoint.py  ..\Mod\DDA\Resources\ui\WaterControlPoint.ui
+
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_DF.py  D:/Projects/QtCreator/DDA_UIs/DF.ui
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_BlockMaterial.py  D:/Projects/QtCreator/DDA_UIs/BlockMaterial.ui
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_LoadingPointParameters.py  D:/Projects/QtCreator/DDA_UIs/LoadingPointParameters.ui
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_LoadingPointParameters4certainTime.py  D:/Projects/QtCreator/DDA_UIs/LoadingPointParameters4certainTime.ui
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_DFMaterialPanel.py  D:/Projects/QtCreator/DDA_UIs/DFMaterialPanel.ui
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_JointMaterial.py  D:/Projects/QtCreator/DDA_UIs/JointMaterial.ui
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_EarthquakeAccelerationVector.py  D:/Projects/QtCreator/DDA_UIs/EarthquakeAccelerationVector.ui
+#C:/Python27/python.exe uic.py -o D:/Projects/QtCreator/DDA_UIs/ui_WaterControlPoint.py  D:/Projects/QtCreator/DDA_UIs/WaterControlPoint.ui
